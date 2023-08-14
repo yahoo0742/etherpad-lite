@@ -222,7 +222,7 @@
   /*
    * The default text of a pad
    */
-  "defaultPadText" : "Welcome to Etherpad!\n\nThis pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!\n\nGet involved with Etherpad at https:\/\/etherpad.org\n",
+  "defaultPadText" : "Welcome to Etherpad. Start jotting here...",
 
   /*
    * Default Pad behavior.
@@ -274,7 +274,7 @@
   /*
    * Should we suppress errors from being visible in the default Pad Text?
    */
-  "suppressErrorsInPadText": false,
+  "suppressErrorsInPadText": true,
 
   /*
    * If this option is enabled, a user must have a session to access pads.
